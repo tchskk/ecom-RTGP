@@ -6,6 +6,9 @@
 - dotenv: loads environment variables (DB URL, JWT secret)
 - JWT: handles secure login sessions (tokens instead of cookies)
 
+email: user1@test.com
+password: secret123
+
 
 ## PSQL Commands Used
 
